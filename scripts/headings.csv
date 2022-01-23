@@ -1,0 +1,544 @@
+Setting the maximum height
+Block & Inline
+Removing outlines
+Referencing an attribute value
+Inset rings
+Add horizontal margin
+Setting the maximum width
+Placing a positioned element
+Separate
+Grow
+Adding custom color themes
+Row reversed
+Renamed gray scales
+Fading to transparent
+Centering by default
+Generating a PostCSS configuration file
+Headings are unstyled
+Adding component classes
+Setting the border color
+Adding backdrop sepia filters
+Resetting numeric font variants
+Truncate
+End
+Snapping to the center
+Adding sepia filters
+Referencing in JavaScript
+Sticky positioning elements
+Troubleshooting
+Core Plugins
+Initial
+Text Top
+Hidden
+Configuration reference
+Mandatory scroll snapping
+Removing unused custom CSS
+Line-clamp
+Removing backdrop filters
+Providing a default letter-spacing
+Setting the ring offset width
+Customizing breakpoints
+Setting the accent color
+Setting the scroll margin
+Flex
+required <small>(:required)</small>
+Pre Wrap
+Overriding the default theme
+@tailwind
+Spin
+Setting the touch action
+Placeholder text
+Oldstyle figures
+Flow Root
+Adding an outer shadow
+Rotating an element's hue
+Ending color
+Disabling a default color
+Appendix
+Removing filters
+Pre
+Setting the caret color
+focus-within <small>(:focus-within)</small>
+Local
+Setting the outline offset
+Vendor Prefixes
+Setting the font size
+Form states
+Snapping to the start
+Maintainability concerns
+Changing element brightness
+Adding additional colors
+Creating a preset
+Rounded corners
+Applying conditionally
+Setting the font family
+Add vertical space between children
+Translating an element
+Removing the shadow
+Making elements visible
+None
+Clearing right-floated elements
+Setting the z-index
+Before and after
+Removing transforms
+Extending multiple presets
+Referencing the default theme
+Prefers color scheme
+Important modifier
+Horizontal scroll snapping
+Setting the text decoration
+Stylus
+Shrink
+Start
+Images are block-level
+Scaffolding the entire default configuration
+Classes aren't generated
+Repeat Vertically
+Adding based on column width
+Changing row and column gaps independently
+Setting the outline width
+Disabling Preflight
+@layer
+Automatic transforms and filters
+Compared to CSS abstractions
+Stacked fractions
+Using the default overscroll behavior
+Collapse
+Adapting to dark mode
+Row
+Changing an element's opacity
+Important
+Using shadows on colored backgrounds
+Constraining to your breakpoints
+only-of-type <small>(:only-of-type)</small>
+Middle color
+Overriding the default spacing scale
+Viewport orientation
+Controlling backdrop brightness
+Adding a text indent
+Targeting mobile screens
+Configuring custom screens
+Adding smaller breakpoints
+Setting the background blend mode
+Buttons have a default outline
+Adding base styles
+Rotating an element
+Using modifiers with custom CSS
+Add vertical margin
+Setting the text decoration style
+Upgrade packages
+Using custom colors
+Normal
+Merging logic in-depth
+Prefix cannot be a function
+Controlling grid element placement
+Cover
+Add horizontal space between children
+Inline Grid
+Clip
+Adding smooth scrolling
+Removing default element appearance
+Optimizing with will change
+Theme structure
+Add margin to a single side
+Extending the default spacing scale
+Inline Flex
+Blurring behind an element
+Controlling pointer event behavior
+Positioning a replaced element
+Controlling backdrop contrast
+Naming your colors
+Transforming source files
+Screens layer has been renamed
+Showing content that overflows
+Using arbitrary values
+Diagonal fractions
+Using editor and language features
+Grid
+Using regular expressions
+Attribute selectors
+Syntax support
+Add horizontal padding
+Separator
+Containing an element
+Choosing a gray scale
+Using multiple CSS files
+Resizing vertically
+Rounding corners separately
+Inverting an element's backdrop
+Setting the border style
+Extending Preflight
+Making elements invisible
+Fill and stroke use color palette
+Element modifiers
+Migrating to the JIT engine
+Functions
+Dynamic class names
+Aspect ratio
+Accessibility considerations
+hover <small>(:hover)</small>
+Installation
+Arbitrary values
+Focus rings
+Setting the break-inside behavior
+Overriding default line-heights
+disabled <small>(:disabled)</small>
+Setting the text color
+JetBrains IDEs
+Color object syntax
+Avoiding premature abstraction
+Layers and per-component CSS
+Rotating the backdrop's hue
+Dynamic utilities
+Using negative values
+No Wrap
+Fixed
+CSS-in-JS syntax
+File modifier order reversed
+Resetting the width
+"First, last, odd, and even"
+Responsive variants
+Using CSS
+Add borders between horizontal children
+Base layer must be present
+Play CDN
+in-range <small>(:in-range)</small>
+Controlling transitioned properties
+Setting the scroll padding
+Preserving shadow color when changing the shadow size
+Setting the text decoration thickness
+Setting the box shadow color
+Targeting a single breakpoint
+Setting the break-before behavior
+Scrolling horizontally always
+Adding horizontal padding
+Resolving ambiguities
+Auto
+Setting the background origin
+Percentage widths
+Flex 1
+only <small>(:only-child)</small>
+Don't shrink
+Snapping to the end
+Setting the text alignment
+Add margin to all sides
+Applying a type scale
+Adding a drop shadow
+Build-time imports
+No Repeat
+Removed color aliases
+Customizing the default theme
+Add padding to a single side
+autofill <small>(:autofill)</small>
+Using an element's original size
+Column
+Add padding to all sides
+Spacing
+Absolutely positioning elements
+Disabling the default configuration
+out-of-range <small>(:out-of-range)</small>
+Loops
+Set the divide style
+overflow-clip/ellipsis
+Resizing to cover a container
+empty <small>(:empty)</small>
+Changing backdrop saturation
+Setting an element's blend mode
+Center
+Slashed Zero
+Safelisting classes
+Colors
+Setting the background color
+focus-visible <small>(:focus-visible)</small>
+Spanning rows
+Content
+Working with third-party libraries
+Overview
+invalid <small>(:invalid)</small>
+Remove dark mode configuration
+Toggling dark mode manually
+Scrolling vertically if needed
+Proximity scroll snapping
+Scrolling vertically always
+Spanning columns
+Setting the list style position
+Setting the underline offset
+"Hover, focus, and active"
+last <small>(:last-child)</small>
+Individual sides
+checked <small>(:checked)</small>
+Specifying the rows in a grid
+Preventing resizing
+Limitations
+Using CSS and @layer
+Sizing implicitly-created grid rows
+File input buttons
+visited <small>(:visited)</small>
+Disabling a float
+Sizing implicitly-created grid columns
+Floating elements to the left
+Styling based on parent state <small>(group-{'{modifier}'})</small>
+Using custom screen names
+No rounding
+Exposing options
+Cropping to text
+Fixed line-heights
+Vendor prefixes
+Relative line-heights
+Customizing your theme
+Changing element contrast
+Theme
+Less
+Basic Usage
+Transforming text
+Customizing extraction logic
+Custom media queries
+Space evenly
+Don't wrap
+Adding larger breakpoints
+Resizing in all directions
+Disabling an entire core plugin
+Pre Line
+First-line and first-letter
+Excluding borders and padding
+Setting the column gap
+Pulse
+Writing plugins
+Separator cannot be a dash
+Starting color
+Pseudo-elements
+Prefers reduced motion
+Undoing screen-reader-only elements
+Configuring raw content
+Delaying transitions
+Responsive breakpoints
+Adding custom utilities
+Adding utilities
+Setting the box decoration break
+Preventing parent overscrolling
+Middle
+Presets
+Browser support
+Setting the divide color
+Using the default colors
+Reading width
+Viewport width
+Applying font smoothing
+Setting the outline style
+Using custom values
+Changing the offset color
+Adding an inner shadow
+Baseline
+Adding a ring
+default <small>(:default)</small>
+All sides
+target <small>(:target)</small>
+Setting the letter spacing
+Fixed positioning elements
+Print styles
+odd <small>(:nth-child(odd))</small>
+Highlighted text
+Setting the background clip
+Pseudo-class reference
+focus <small>(:focus)</small>
+Viewport height
+Screens
+Color palette changes
+Aliasing color names
+Scrolling horizontally if needed
+Using auto select behaviour
+Adding components
+Wrap reversed
+Border styles are reset globally
+Max-width breakpoints
+Scrolling if needed
+Scrolling in all directions
+Pseudo-classes
+Including borders and padding
+Class name changes
+Overriding a single screen
+first-of-type <small>(:first-of-type)</small>
+Undoing typography styles
+Static utilities
+Applying numeric variants
+Breakpoints and media queries
+read-only <small>(:read-only)</small>
+screen()
+Disabling text selection
+Ping
+Prefers-reduced-motion
+Skipping snap position stops
+Clearing left-floated elements
+Customizing
+Don't grow
+Multi-range breakpoints
+Referencing other values
+Core plugins
+Italicizing text
+Horizontal and vertical sides
+Advanced configuration
+"Using Sass, Less, or Stylus"
+Statically positioning elements
+Setting the minimum width
+Directives
+Configuring source paths
+Mobile First
+Using CSS variables
+flex-grow/shrink
+Using with modifiers
+Top
+Full height
+Multi-cursor editing
+Setting the stroke color
+Setting a pseudo-element's content
+No style
+Stretch
+Relatively positioning elements
+Negative values removed
+Preventing overscroll bouncing
+Using with your own classes
+Using the container
+Reversing children order
+Ordering flex and grid items
+Skewing an element
+Open/closed state
+Inverting an element's color
+Using spaces and underscores
+Allowing text selection
+Extracting classes with @apply
+Configuration options
+@font-face rules
+Bottom
+Setting the list style type
+decoration-clone/slice
+Variables
+Cannot be paired with divide utilities
+Tabular figures
+Arbitrary properties
+@apply
+Repeat
+Scroll
+Nesting
+Contain
+Contents
+Clearing all floated elements
+Hardware acceleration
+Creating your configuration file
+Specifying the columns in a grid
+Repeat Horizontally
+Controlling the easing curve
+Using a different file name
+Styling based on sibling state <small>(peer-{'{modifier}'})</small>
+Why not just use inline styles?
+Creating custom modifiers
+It just isn't working properly
+Add borders between stacked children
+Extending the default theme
+active <small>(:active)</small>
+Lists are unstyled
+Forcing snap position stops
+Hiding content that overflows
+Proportional figures
+Break Words
+Setting the background position
+Setting the outline color
+Official plugins
+Disabling applied clears
+Generating colors
+Adding variants
+Selector strategy
+Setting the aspect ratio
+Starting and ending lines
+Overriding the defaults
+Blurring elements
+Class detection in-depth
+Generating state variants
+Forms
+Controlling opacity of backdrop filters
+List markers
+"Hover, focus, and other states"
+Resizing horizontally
+Ordinal
+Fixed heights
+Overriding max-width
+Setting the cursor style
+Between elements
+Adding based on column count
+indeterminate <small>(:indeterminate)</small>
+Sass
+Add vertical padding
+Using a plugin
+Default color palette
+Scaling down if too large
+last-of-type <small>(:last-of-type)</small>
+Setting the break-after behavior
+Changing the transform origin
+Wrap normally
+Configure content sources
+Changing the opacity
+Prefix
+Remove variant configuration
+Space around
+theme()
+Column reversed
+Lining figures
+Setting the ring color
+Default spacing scale
+placeholder-shown <small>(:placeholder-shown)</small>
+Selecting all text in one click
+IntelliSense for VS Code
+Extracting components and partials
+Pill buttons
+Setting the stroke width
+Bounce
+outline-black/white
+valid <small>(:valid)</small>
+Replace @variants with @layer
+Using @apply with per-component CSS
+Scaling an element
+Setting the fill color
+Basic usage
+Plugins
+Typography
+Fixed-range breakpoints
+Table
+Stretching to fit a container
+Linear gradients
+Setting the font weight
+Default margins are removed
+Screen-reader-only elements
+Other minor changes
+Media queries
+Changing the default class name
+Changing transition duration
+Generating responsive variants
+Setting the text decoration color
+Setting the stacking context
+Floating elements to the right
+Prefix and important
+Rounding sides separately
+Ellipsis
+Making an element grayscale
+Generating dark mode variants
+Setting the ring offset color
+Using PostCSS as your preprocessor
+Pattern recommendations
+Ordering stacked modifiers
+Space between
+Providing a default line-height
+Fixed widths
+Setting the flex basis
+Styles rebuild in an infinite loop
+Customizing the CSS
+Quick reference
+Text Bottom
+Handling whitespace
+Break All
+Setting the minimum height
+Advanced topics
+RTL support
+first <small>(:first-child)</small>
+even <small>(:nth-child(even))</small>
+Setting the gap between elements
+Changing element saturation
+Using classes in your HTML

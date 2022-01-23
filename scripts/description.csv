@@ -1,0 +1,178 @@
+Utilities for applying backdrop contrast filters to an element.
+Utilities for controlling how an individual item is justified and aligned at the same time.
+Utilities for controlling the box shadow of an element.
+Utilities for controlling the bullet/number style of a list.
+Utilities for controlling an element's scroll offset within a snap container.
+Utilities for optimizing upcoming animations of elements that are expected to change.
+Creating your own reusable configuration presets.
+Utilities for specifying the rows in a grid layout.
+Utilities for controlling the color of an element's outline.
+Utilities for controlling the leading (line height) of an element.
+Customizing the default color palette for your project.
+Utilities for controlling how the browser behaves when reaching the boundary of a scrolling area.
+Utilities for controlling how elements are sized and placed across grid rows.
+Utilities for controlling the border radius of an element.
+Utilities for setting the minimum height of an element.
+Utilities for skewing elements with transform.
+Utilities for controlling the style of an element's borders.
+Utilities for controlling the position of an element's background image.
+Utilities for applying invert filters to an element.
+Building complex components from a constrained set of primitive utilities.
+Utilities for controlling how an element can be resized.
+Utilities for controlling how an element is positioned in the DOM.
+Managing duplication and creating reusable abstractions.
+Utilities for controlling how an element can be scrolled and zoomed on touchscreens.
+Utilities for controlling whether the user can select text in an element.
+Utilities for suppressing native form control styling.
+Utilities for controlling the style of text decorations.
+Utilities for controlling the decoration of text.
+Utilities for controlling the scroll behavior of an element.
+A guide to configuring and customizing your Tailwind installation.
+Utilities for controlling how an element's background image should blend with its background color.
+Utilities for controlling the border width between elements.
+A reference for the custom functions and directives Tailwind exposes to your CSS.
+Utilities for controlling the stack order of an element.
+Utilities for applying grayscale filters to an element.
+Utilities for controlling the opacity of an element.
+Utilities for controlling the order of flex and grid items.
+Utilities for controlling the width of an element's outline.
+Configuring the content sources for your project.
+Utilities for controlling whether table borders should collapse or be separated.
+Using Tailwind CSS to style your site in dark mode.
+Utilities for controlling how strictly snap points are enforced in a snap container.
+Utilities for applying backdrop grayscale filters to an element.
+Utilities for applying backdrop invert filters to an element.
+Utilities for controlling the variant of numbers.
+Utilities for styling the stroke of SVG elements.
+Utilities for controlling the initial size of flex items.
+Utilities for controlling how a column or page should break after an element.
+Utilities for setting the width of an element.
+Utilities for animating elements with CSS animations.
+Utilities for controlling the tracking (letter spacing) of an element.
+Utilities for controlling the repetition of an element's background image.
+Utilities for controlling the color stops in background gradients.
+Utilities for controlling word breaks in an element.
+Utilities for controlling how flex items grow.
+Utilities for controlling the font family of an element.
+Utilities for rotating elements with transform.
+Utilities for controlling the duration of CSS transitions.
+Utilities for controlling how content is justified and aligned at the same time.
+Utilities for controlling how flex and grid items are positioned along a container's main axis.
+Utilities for applying blur filters to an element.
+Utilities for controlling whether an element should explicitly create a new stacking context.
+Utilities for controlling how items are justified and aligned at the same time.
+Utilities for controlling the font smoothing of an element.
+Utilities for controlling the position of bullets/numbers in lists.
+Utilities for setting the color of outline rings.
+Plugins and configuration settings that can improve the developer experience when working with Tailwind CSS.
+Customizing the default theme for your project.
+Utilities for controlling the easing of CSS transitions.
+An opinionated set of base styles for Tailwind projects.
+Utilities for styling the stroke width of SVG elements.
+Utilities for controlling how flex items both grow and shrink.
+Utilities for controlling the size of implicitly-created grid rows.
+Utilities for controlling an element's white-space property.
+Utilities for controlling the border style between elements.
+Utilities for controlling the table layout algorithm.
+Utilities for controlling an element's background color.
+A component for fixing an element's width to the current breakpoint.
+Utilities for controlling the display box type of an element.
+Understanding which browsers Tailwind supports and how to manage vendor prefixes.
+Utilities for controlling the border color between elements.
+Utilities for controlling the content of the before and after pseudo-elements.
+Utilities for controlling how an individual grid item is aligned along its inline axis.
+Utilities for controlling the style of text.
+Utilities for controlling the bounding box of an element's background.
+Utilities for controlling the offset of an element's outline.
+Upgrading your Tailwind CSS projects from v2 to v3.
+Utilities for controlling how grid items are aligned along their inline axis.
+Utilities for applying backdrop hue-rotate filters to an element.
+"A guide to using Tailwind with common CSS preprocessors like Sass, Less, and Stylus."
+Best practices for adding your own global base styles on top of Tailwind.
+Utilities for controlling the background size of an element's background image.
+"Using utilities to style elements on hover, focus, and more."
+Utilities for controlling how flex and grid items are positioned along a container's cross axis.
+Utilities for controlling the scroll snap alignment of an element.
+Utilities for controlling gutters between grid and flexbox items.
+Utilities for improving accessibility with screen readers.
+Utilities for controlling how elements are sized and placed across grid columns.
+Best practices for adding your own custom styles to Tailwind.
+Utilities for controlling the amount of empty space shown before text in a block.
+Utilities for simulating an offset when adding outline rings.
+Utilities for controlling how a background image behaves when scrolling.
+Getting the most performance out of Tailwind CSS projects.
+Utilities for controlling how an element handles content that is too large for the container.
+Utilities for controlling how a column or page should break within an element.
+Utilities for setting the maximum height of an element.
+Utilities for controlling how an individual flex or grid item is positioned along its container's cross axis.
+Utilities for controlling the accented color of a form control.
+Utilities for controlling an element's padding.
+Utilities for controlling how an element should blend with the background.
+Utilities for controlling the alignment of text.
+Utilities for applying backdrop opacity filters to an element.
+Utilities for controlling the offset of a text underline.
+Utilities for applying backdrop sepia filters to an element.
+Utilities for controlling how a column or page should break before an element.
+Utilities for setting the maximum width of an element.
+Utilities for controlling the text color of an element.
+Utilities for controlling how a replaced element's content should be positioned within its container.
+Utilities for controlling the delay of CSS transitions.
+Utilities for setting the height of an element.
+Utilities for applying drop-shadow filters to an element.
+Utilities for translating elements with transform.
+Utilities for specifying the columns in a grid layout.
+Utilities for controlling the thickness of text decorations.
+Utilities for controlling the style of an element's outline.
+Utilities for controlling how a replaced element's content should be resized.
+Utilities for setting the color of outline ring offsets.
+Utilities for controlling how flex items shrink.
+Utilities for applying sepia filters to an element.
+Utilities for controlling the color of a box shadow.
+Utilities for applying hue-rotate filters to an element.
+"Utilities for controlling how an element's background is positioned relative to borders, padding, and content."
+Beautiful typographic defaults for HTML you don't control.
+Extending Tailwind with reusable third-party plugins.
+Utilities for controlling an element's margin.
+Utilities for controlling the cursor style when hovering over an element.
+Utilities for controlling the visibility of an element.
+Utilities for controlling how elements in a grid are auto-placed.
+Utilities for styling the fill of SVG elements.
+Utilities for controlling the font weight of an element.
+Utilities for controlling the vertical alignment of an inline or table-cell box.
+Utilities for controlling the color of text decorations.
+Utilities for controlling which CSS properties transition.
+Utilities for applying contrast filters to an element.
+Utilities for controlling how rows are positioned in multi-row flex and grid containers.
+Utilities for controlling the width of an element's borders.
+Utilities for controlling how the browser should calculate an element's total size.
+Utilities for setting the minimum width of an element.
+Extending Tailwind with your own custom utility classes.
+Utilities for controlling the space between child elements.
+Utilities for controlling text overflow in an element.
+Utilities for creating outline rings with box-shadows.
+Utilities for specifying the origin for an element's transformations.
+Customizing the default spacing and sizing scale for your project.
+Utilities for scaling elements with transform.
+Utilities for applying backdrop brightness filters to an element.
+"Utilities for controlling how element fragments should be rendered across multiple lines, columns, or pages."
+Customizing the default breakpoints for your project.
+Utilities for controlling the direction of flex items.
+Utilities for applying saturation filters to an element.
+Utilities for controlling the transformation of text.
+Utilities for controlling the scroll offset around items in a snap container.
+Utilities for controlling the wrapping of content around an element.
+Utilities for controlling the placement of positioned elements.
+Utilities for controlling how flex items wrap.
+Utilities for controlling the aspect ratio of an element.
+Utilities for applying backdrop blur filters to an element.
+Utilities for controlling the color of the text input cursor.
+Utilities for controlling the size of implicitly-created grid columns.
+Utilities for controlling an element's background image.
+Utilities for controlling the font size of an element.
+Utilities for controlling whether you can skip past possible snap positions.
+Utilities for applying brightness filters to an element.
+Utilities for controlling whether an element responds to pointer events.
+Using responsive utility variants to build adaptive user interfaces.
+Utilities for applying backdrop saturation filters to an element.
+Utilities for controlling the number of columns within an element.
+Utilities for controlling the color of an element's borders.
