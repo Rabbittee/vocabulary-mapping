@@ -1,0 +1,6 @@
+[submodule "tailwindcss.com"]
+	path = tailwindcss.com
+	url = git@github.com:tailwindlabs/tailwindcss.com.git
+[submodule "tailwindcss.tw"]
+	path = tailwindcss.tw
+	url = git@github.com:tailwindcss-tw/tailwindcss.com.git
