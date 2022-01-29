@@ -1,0 +1,400 @@
+absolute length unit,絕對長度單位
+absolute positioning,絕對定位
+absolute URI,絕對 URI
+Accesse-Contrl-Allow-Origin,Accesse-Contrl-Allow-Origin 標頭
+accessibility issuse,可存取性議題
+animations,動畫
+elements with focus,有焦點的元素
+screen readers and order of content,螢幕閱讀與內容順序
+styled visited link,造訪過的連結樣式
+additive-symbols descriptor,附加符號描述子
+adjacent-simbling combinator,相鄰同儕結合子
+:active pesudo-class,:active 虛擬類別
+::after pesudo-element,::after 虛擬元素
+align-content property,align-content 屬性
+align-items property,align-items 屬性
+align-self property,align-self 屬性
+all media type,所有媒體型別
+all property,所有屬性
+and,邏輯關鍵字
+clipping rules,裁切規則
+content keyword for flex-basis,flex-basis 的內容關鍵字
+contents display,內容顯示
+counter styles,計數器樣式
+CSS Shapes,CSS形狀
+custom values,自行定義數值
+feature queries,特性查詢
+flow and flow-root display,flow 與 flow-root 顯示
+font synthesis,字型合成
+font variants,字型變體
+@font-face directive,@font-face 指令
+font-size-adjust property,font-size-adjust 屬性
+HTTP linking,HTTP 連結
+@import directive placement,@import 指令位置
+media types,媒體類型
+outline color inversion,外框顏色反轉
+padding for form elements,表單元素內距
+page margins,頁面邊界範圍
+printing transitions,列印轉場
+radial gradient edge cases,放射性間層邊界狀況
+size property,size 屬性
+sticky positioning,黏貼定位
+tab-size property,tab-size 屬性
+text-align-last property,text-align-last 屬性
+text-justify property,text-justify 屬性
+vendor prefixes,廠商字首
+viewport-relative units,視埠相關單位
+"""flash"" behavior of",「閃卡」行為
+version compatibility,版本相容性
+"backwards incompatibility, creating",向後不相容，建立
+.css filename extension requirement,.css 延伸檔名必要性
+media descriptors using not keyword,媒體描述子包含not關鍵字
+newer elements supporting,新近元素，支援
+word wrapping,單詞折行
+calc()value,calc()值
+capitalization,大寫
+caption-side property,caption-side屬性
+^=,"脱字符，等號,屬性選擇器"
+Cartesian coordinate system,笛卡爾座標系統
+cascade,聯級
+Cascading Style Sheets,(參看CSS)區分大小寫
+for attribute selectors,屬性選擇器
+for ID selectors,ID選擇器
+ch unit,ch單位
+chaining,鏈結
+animations,動畫
+pseudo-classes,虛擬類別
+character box(see em box),字元方框(參看em方框)
+:checked pseudo-class,checked虛擬類別
+child combinator,子代結合子
+circular gradients (see radial gradients),放射狀漸層，參看放射狀漸層
+"circular shapes, for floated elements",圓形，浮動元素
+class attribute,class 屬性
+class selectors,class 選擇器
+clip-rule property,clear 屬性
+clipping,裁切
+see also masks,參看遮罩
+backgrounds,背景
+based on an image,依影像
+based on boxes,依方塊
+based on simple shapes,依簡單形狀
+filling rules for,填滿規則
+of masks,遮罩
+cm,公分(單位)
+collapsed cell border model,重疊基本格邊框模型
+collapsing margins,重疊邊界範圍
+:,冒號
+inpseudo-element selectors,雙冒號(::)虛擬元素選擇器
+colorledmode,顏色混合模式
+"color descriptor,@media","顏色描述子,@media"
+color filtering,顏色濾鏡
+for linear gradients,"color hints,線性漸層"
+color property,color屬性
+color stops,
+in linear gradients,線性漸層
+in radial gradients,放線性漸層
+color values,顏色值
+currentColor keyword,currentColor關鍵字
+hexadecimal RGB colors,十六進位RGB顏色
+hexadecimal RGBa colors,十六進位RGBa顏色
+HSL colors,HSL顏色
+HSLa colors,HSLa 顏色
+list of,列表
+named colors,命名顏色
+RGB colors,RGB顏色
+RGBa colors,RGBa 顏色
+transparent keyword,transparent關鍵字
+color-burn blend mode,color-burn混合模式
+color-dodge blend mode,color-dodge 混合模式
+"color-index descriptor, @media","color-index描述子, @media"
+colors,顏色
+see also backgrounds; gradients,"參看背景,漸層"
+of background,背景
+of borders,邊框
+foreground colors,前景
+of form elements,表格元素
+in linear gradients,線性漸層
+column property,column屬性
+combinators,結合子
+adjacent-sibling combinator,相鄰同儕結合子
+child combinator,子代結合子
+for descendant selectors,後裔選擇器
+general-sibling combinator,一般同儕結合子
+"multiple types of, using together",同時使用多種
+specificity of,權重
+",",逗號
+separating selectors,分隔選擇器
+separating value keywords,分隔數值關鍵字
+comments,註解
+CSS comments,CSS註解
+HTML comments,HTML註解
+compositing,複合
+see also blending,參看混合
+container box,容器方框
+for flexbox layout,flexbox 排版
+for grid layout,網格排版
+containing blocks,容器區塊
+content area,内容區域
+of block-level elements,區塊級元素
+of inline-level elements,行內級元素
+content property,content屬性
+content display role,內容顯示角色
+contextual selectors (see descendant selectors),情境脈絡選擇器(參看後裔選擇器)
+"continuous media, compared to paged media","連續媒體,相較於分頁媒體"
+conventions used in this book,contrast()函式
+coordinate systems,本書慣例
+Cartesian,坐標系統
+spherical,笛卡爾坐標
+counter-increment property,counter-increment屬性
+counter-reset property,counter-reset 屬性
+@counter-style directive,@counter-style指令
+counters,計數器
+displaying,顯示
+incrementing,遞增
+patterns for,模式
+additive,附加
+alphabetic,字母
+cyclic,循環
+extending,擴充
+fixed,固定
+numeric,數字
+speaking,報讀
+symbolic,符號
+resetting,重設
+scope of,範圍
+CSS(Cascading Style Sheets),聯級様式表
+cascade,聯級
+comments in,註解
+inheritance,繼承
+linking to HTML,連結到HTML文件
+media-dependent styles ( see media queries) ,媒體相關樣式(參看媒體查詢)
+specificity,權重
+whitespace in,留白
+CSS Shapes,CSS形狀
+css variables (see custom properties) ,CSS變數(參看自定義屬性)
+CSS Working Group,CSS工作小組
+CSS1 specification,CSS1標準規範
+cleared elements,cleared 元素
+"height values, when ignored","height值,忽略"
+inline boxes,行內方框與浮重重疊
+list item markers,列表項目標記
+negative length values,負長度值
+scaling factors,縮放係數
+CSS2 specification,CSS2標準規範
+attribute selectors ,屬性選擇器
+border collapsing default,邊框重疊預設
+cleared elements,cleared 元素
+compact and marker displays,compact 與 marker 顯示
+counters,計數器
+custom fonts,自行定義字型
+fixed-position elements,fixed定位元素
+font face,字面
+generated quotes,産生引號
+"height values, when ignored",height值忽略
+hyperlink pesudo-classes,"超連結,虛擬類別"
+inline boxes overlapping with floats ,"行內方框,與浮動元素重疊"
+keyword separations,關鍵字分隔
+left and right captions,左與右表格caption
+list item markers,列表項目標記
+list item numbering,列表項目編號
+list marker positioning,列表標記位置
+negative length values,負長度值
+overconstrained relative positioning,過度受限的相對定位
+page box,頁方框
+page breaking behaviors,分頁行為
+page rules,頁規則
+pseudo-elements,虛擬元素
+reference pixels,參考像素
+scaling factors,縮放係數
+universal selector,通用選擇器
+widows and orphans,window 與 orphan
+CSS3 specification,CSS3標準規範
+ch unit,ch單位
+dots per pixel,
+global keywords,全域關鍵字
+HSL and HSLA colors,HSL與HSLA顏色
+list marker positioning,列表標記位置
+presentational hints,呈現建議
+reference pixels,參考像素
+RGBa colors,RGBa顏色
+scaling factors,縮放係數
+text alignment,文字對齊
+viewport-relative units,以視埠為基準的單位
+cubic-bezier() timng function,cubic-bezier()時脈函數
+{...},大括號
+in keyframe animations,keyframe 動畫
+in rules,規則
+in value syntax,數值語法
+currentColor keyword,currentColor 關鍵字
+cursive fonts,cursive字型
+custom propertes,自行定義屬性
+ease timing function,ease 時脈函數
+ease-in timing function,ease-in 時脈函數
+ease-in-out timing function,ease-in-out 時脈函數
+ease-out timing function,ease-out 時脈函數
+easing functions,easing 函數
+element boxes,元素方框
+block boxes,區塊方框
+inline boxes,行內方框
+inline-block boxes,行內區塊方框
+element selectors,元素選擇器
+elements,元素
+block-level elements,區塊級元素
+display roles of,顯示角色
+inline-level eleents,行內級元素
+nonreplaced elements,非置換元素
+replaced elements,置換元素
+root elements,根元素
+"elliptical shapes, for floated elements",橢圓形，浮動元素
+em box,em 方框
+em square,em 方格
+em unit,em 單位
+:empty pseudo-class,:empty 虛擬類別
+empty-celis property,empty-cells屬性
+:enabled pseudo-class,:enabled 虛擬類別
+events,事件
+for animations,動畫
+for transitions,轉場
+ex unit,ex單位
+exclusion blend mode,exclusion 混合模式
+fantasy fonts,花式字體
+feature queries,特性查詢
+flter property,filter 屬性
+blurring,模糊
+brightness,亮度
+color filtering,色彩濾鏡
+contrast,對比
+drop shadows,陰影
+opacity,透明度
+saturation,飽合度
+SVG filters,SVG濾鏡
+findRule(),findRule() 方法
+:first-child pseudo-class,:first-child 虛擬類別
+::first-letter pseudo-element,::first-letter 虛擬元素
+::first-line pseudo-element,::first-line 虛擬元素
+:first-of-type pseudo-element,:first-of-type 虛擬類
+fit-content() function,fit-content() 函數
+fixed positioning,fixed 定位
+flex property,flex 屬性
+flex-basis property,flex-basis 屬性
+flex-direction property,flex-direction 屬性
+flex-flow property,flex-flow 屬性
+flex-grow property,flex-grow 屬性
+flex-shrink property,flex-shrink 屬性
+flex-wrap property,flex-wrap 屬性
+flexible box (flexbox),
+content lines,內容行
+aligning,對齊
+wrapping,折行
+cross axis for,相交軸
+cross size for,相交尺寸
+cross start and edge for,corss start 與邊緣
+flex container for,彈性容器
+flex items in,彈性項目
+absolute positioning,絕對定位
+aligning along cross axis,沿相交軸對齊
+aligning individually,個別對齊
+anonymous,未命名
+dismensions of,維度
+distributing along main axis,主軸上分配
+order of,順序
+placing individually,個別放置
+inline-flex display,inline-flex 顯示
+main axis for,主軸
+main size for,主尺寸
+main start and end for,main start 與 main end
+margins and,邊界範圍
+recommended uses for,建議使用於
+writing modes and,書寫模式
+float property,float 屬性
+float elements,浮動元素
+backgrounds and,背景
+block box for,區塊方框
+containing block for,容器區塊
+inline elements and,行内元素
+interaction with grid,與網格交互作用
+margins and,邊界範圍
+negative margins and,負值邊界範圍
+"placement of,rules for",放置，規則
+preventing,避免
+preventing next to specific elements,避免相鄰特定元素
+shapes containing,形狀包含
+circular shapes,圓形
+elliptical shapes,橢圓形
+inset shapes,inset 形
+margins for,邊界範圍
+polygons,多邊形
+transparency for,透明
+width of,寬
+flow display,flow 顯示
+flow-root display,flow-root 顯示
+:focus pseudo-class,:focus 虛擬類別
+font property,font 屬性
+@font-face directive,@font-face指令
+"""Bulletproof"" syntax for",「防彈」語法
+combining descriptors,結合描述子
+font-family descriptor,font-family描述子
+formats for,格式
+licenses for,授權
+local fonts for,本地字型
+optional descriptors,選用描述子
+resources used by,使用的資源
+src descriptor,src描述子
+URL for,URL
+"font-family descriptor, @font-face",font-family描述子，@font-face
+font-family property,font-family屬性
+"font-feature-settings descriptor, @font-face",font-feature-settings 描述子，@font-face
+font-feature-settings property,font-feature-settings 屬性
+font-kerning property,font-kerning 屬性
+font-size property,font-size 屬性
+absolute sizes,絕對尺寸
+automatically adjusting,自動調整
+inheritance of,繼承
+inline element height from,行内元素高
+leading determined by,決定 leading
+length units for,長度單位
+of monospaced text,固定寬度文字
+percentages for,百分比
+relative sizes,相對尺寸
+rounding of,四捨五入
+font-size-adjust property,font-size-adjust 屬性
+"font-stretch descriptor, @font-face",font-stretch 描述子，@font-face
+font-stretch property,font-stretch 屬性
+"font-style descriptor, @font-face",font-style描述子，@font-face
+font-style property,ont-style 屬性
+font-synthesis property,font-synthesis 屬性
+universal selectors,通用選擇器
+&&,雙和號
+<...>,
+<!--...-->,
+*,
+\,
+^=,
+:,
+::,
+",",
+{..},
+$=,
+!important,
+/,
+/**...*/,
+>,
+--,
+-...-,
+#,
+.,
++,
+?,
+'...',
+"""...""",
+;,
+[...],
+~,
+~=,
+|,
+||,
+|=,
+\,跳脫字元
+!,驚歎號
+in !imnportant declarations,!important宣告
+in value syntax,數值語法
